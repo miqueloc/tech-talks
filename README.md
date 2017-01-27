@@ -8,3 +8,4 @@ A collection of tech talks about technologies, security and testing
 * [Learn functional programming] (https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [Solo hay que besar un SAPPO](https://www.youtube.com/watch?time_continue=1&v=xJNuOHFEvc0)
 * [Selenium conf UK 2016](https://www.youtube.com/watch?v=xtvvelPDzPQ)
+* [Thinking inside the container](https://www.youtube.com/watch?v=YViFZBoKqjg)
