@@ -9,3 +9,4 @@ A collection of tech talks about technologies, security and testing
 * [Solo hay que besar un SAPPO](https://www.youtube.com/watch?time_continue=1&v=xJNuOHFEvc0)
 * [Selenium conf UK 2016](https://www.youtube.com/watch?v=xtvvelPDzPQ)
 * [Thinking inside the container](https://www.youtube.com/watch?v=YViFZBoKqjg)
+* [Never send a Human to do a machine's job] (https://www.youtube.com/watch?v=_5Sr4EYH7M8&t=1201s)
