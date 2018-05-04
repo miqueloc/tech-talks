@@ -10,3 +10,4 @@ A collection of tech talks about technologies, security and testing
 * [Selenium conf UK 2016](https://www.youtube.com/watch?v=xtvvelPDzPQ)
 * [Thinking inside the container](https://www.youtube.com/watch?v=YViFZBoKqjg)
 * [Never send a Human to do a machine's job](https://www.youtube.com/watch?v=_5Sr4EYH7M8&t=1201s)
+* [How Flaky Tests in Continuous Integration](https://youtu.be/CrzpkF1-VsA)
